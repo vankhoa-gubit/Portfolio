@@ -107,7 +107,11 @@ const Hero = () => {
                                                 </svg>
                                             </div> */}
                                             <div className="text-gray-300">
-                                                <img src="/h3.jpg" alt="My Photo" />
+                                                <img
+                                                    src="/Portfolio/h3.jpg"
+                                                    alt="My Photo"
+                                                    className="w-full h-full object-cover rounded-xl"
+                                                />
                                             </div>
                                         </div>
                                     </div>
