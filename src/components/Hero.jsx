@@ -142,6 +142,7 @@ const Hero = () => {
                             </div> */}
                         </div>
 
+
                         {/* <div className="absolute -right-8 top-1/4 hidden lg:block animate-float delay-1000">
                             <div className="bg-gray-800/80 backdrop-blur-sm border border-gray-600/50 rounded-lg p-4 text-center">
                                 <div className="text-2xl font-bold text-blue-400">50+</div>

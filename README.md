@@ -63,7 +63,7 @@ I'm Van Khoa, a passionate 3rd-year Full-Stack Programming student with expertis
 ### 🔧 Skills Section
 - **Frontend**: React, JavaScript, HTML5, CSS3, Tailwind CSS
 - **Backend**: Java, Node.js, Express, JSP/Servlet
-- **Database**: SQL Server, MongoDB, MySQL
+- **Database**: SQL Server, MySQL
 - **Tools**: Git, GitHub, VS Code, Postman
 
 ### 💼 Projects Section
@@ -169,12 +169,6 @@ This portfolio is automatically deployed to GitHub Pages using GitHub Actions. T
 - **Email**: khoapvan204@gmail.com
 - **Phone**: +84 329 164 661
 - **Location**: Ho Chi Minh City, Vietnam
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
   <p>Made with ❤️ by Van Khoa</p>

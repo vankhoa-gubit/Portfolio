@@ -46,8 +46,8 @@ const Projects = () => {
             technologies: ["React", "Tailwind CSS", "Vite", "JavaScript"],
             techColors: ["bg-white/20 text-white", "bg-white/20 text-white", "bg-white/20 text-white", "bg-white/20 text-white"],
             linkColor: "text-white hover:text-indigo-200",
-            liveDemo: "#",
-            github: "#"
+            liveDemo: "https://vankhoa-gubit.github.io/Portfolio/",
+            github: "https://github.com/vankhoa-gubit/Portfolio.git"
         }
     ]
 
